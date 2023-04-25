@@ -1,0 +1,5 @@
+uvicorn==0.17.6
+fastapi==0.75.1
+pandas~=1.4.0
+geopy==2.3.0
+pydantic==1.9.0
