@@ -10,7 +10,7 @@
 
   Open a terminal & run:
     
-    git clone  http://gitlab.luluone.com/mukesh.kumar/recon-unified.git
+    git clone https://github.com/alokg54/Eastvantage.git
     cd Eastvantage
     pip install -r requirements.txt 
     python main.py
